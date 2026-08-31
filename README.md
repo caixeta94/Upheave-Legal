@@ -24,7 +24,7 @@ Documentos legais de **Upheave** (`com.uaigames.upheave`) — publicados via Git
 ## Antes de publicar o app — confira
 
 - [ ] Os flags de feature em `games.json` batem com o que o app **realmente faz**
-      (hoje: `leaderboard, replay, cloud_save, analytics`). Data Safety divergente do comportamento real é a causa
+      (hoje: `leaderboard, replay, cloud_save, analytics, ads, ads_so_premiado, ads_ssv`). Data Safety divergente do comportamento real é a causa
       nº 1 de remoção da Play.
 - [ ] Se o jogo tem **fantasma**, a opção de desativar existe de fato em
       Configurações → Privacidade. A política promete isso.
